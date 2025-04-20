@@ -46,4 +46,4 @@ Make sure you have the following installed:
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Jnlpatel/JAssignment1-JinalkumariPatel.git
+   git clone https://github.com/Jnlpatel/Portfolio-api.git
